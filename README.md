@@ -2,11 +2,11 @@
 
 Sniffer de paquetes en **Python + Scapy** que captura tráfico en tiempo real, muestra estadísticas por protocolo y realiza **detección básica de ataques** como **ARP spoofing**, **SYN flood** y **escaneo de puertos**.
 
-> ⚠️ **Usa este software solo en redes propias o con autorización explícita.** Sniffear tráfico puede ser ilegal o violar políticas de uso.
+> **Software solo en redes propias o con autorización explícita.** Sniffear tráfico puede ser ilegal o violar políticas de uso.
 
 ---
 
-## 🧰 Requisitos
+## Requisitos
 
 - **Python 3.8+**
 - **Scapy**
